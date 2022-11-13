@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Movie List</string>
+    <string name="on_my_watch_list">ON MY WATCHLIST</string>
+    <string name="sort_by_name">By Name</string>
+    <string name="sort_by_release_date">By Release Date</string>
+    <string name="sort">Sort</string>
+    <string name="title_movies">Movies</string>
+    <string name="watch_trailer">WATCH TRAILER</string>
+    <string name="short_description">Short Description</string>
+    <string name="details">Details</string>
+    <string name="genre">Genre</string>
+    <string name="release_date">Release Date</string>
+    <string name="add_to_watch_list">+ ADD TO WATCHLIST</string>
+    <string name="remove_from_watch_list">REMOVE FROM WATCHLIST</string>
+    <string name="out_of_ten">/10</string>
+</resources>
